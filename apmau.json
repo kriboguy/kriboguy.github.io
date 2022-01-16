@@ -9,7 +9,7 @@
       "native_for_admob":"qwerty123",
       "backup_ads_banner":"824b71244cd53323",
       "backup_ads_intertitial":"7ac524d1b94fd5d5",
-      "interval_intertitial": 10,
+      "interval_intertitial": 1,
       "initialize_sdk":"204172822",
       "initialize_sdk_backup_ads":"204172822",
       "high_paying_keyword_1": "gold",
