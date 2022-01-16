@@ -2,14 +2,14 @@
   "Ads":
   [
     {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "qwerty123",
-      "main_ads_intertitial":"qwerty123",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3361819946658765/7129314312",
+      "main_ads_intertitial":"ca-app-pub-3361819946658765/7742530169",
       "native_for_admob":"qwerty123",
-      "backup_ads_banner":"qwerty123",
-      "backup_ads_intertitial":"qwerty123",
-      "interval_intertitial": 10,
+      "backup_ads_banner":"5df136d3f6b1fc4f",
+      "backup_ads_intertitial":"fd4761e89273ff35",
+      "interval_intertitial": 1,
       "initialize_sdk":"204172822",
       "initialize_sdk_backup_ads":"204172822",
       "high_paying_keyword_1": "gold",
