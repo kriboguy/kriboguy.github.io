@@ -2,14 +2,14 @@
   "Ads":
   [
     {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "qwerty123",
-      "main_ads_intertitial":"qwerty123",
-      "native_for_admob":"qwerty123",
-      "backup_ads_banner":"qwerty123",
-      "backup_ads_intertitial":"qwerty123",
-      "interval_intertitial": 10,
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-8519429919648874/2908260058",
+      "main_ads_intertitial":"ca-app-pub-8519429919648874/1595178387",
+      "native_for_admob":"ca-app-pub-8519429919648874/9319617550",
+      "backup_ads_banner":"619be9cc3de20274",
+      "backup_ads_intertitial":"499a8ca9d9ddd141",
+      "interval_intertitial": 6,
       "initialize_sdk":"204172822",
       "initialize_sdk_backup_ads":"204172822",
       "high_paying_keyword_1": "gold",
@@ -24,126 +24,7 @@
 
    "Skin":
   [
-     {
-      "id":1,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin1.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/1.png"
-    },
-    {
-      "id":2,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin2.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/2.png"
-    },
-    {
-      "id":3,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin3.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/3.png"
-    },
-    {
-      "id":4,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin4.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/4.png"
-    },
-    {
-      "id":5,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin5.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/5.png"
-    },
-    {
-      "id":6,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin6.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/6.png"
-    },
-    {
-      "id":7,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin7.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/7.png"
-    },
-    {
-      "id":8,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin8.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/8.png"
-    },
-    {
-      "id":9,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin9.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/9.png"
-    },
-    {
-      "id":10,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin10.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/10.png"
-    },
-    {
-      "id":11,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin11.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/11.png"
-    },
-    {
-      "id":12,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin12.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/12.png"
-    },
-    {
-      "id":13,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin13.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/13.png"
-    },
-    {
-      "id":14,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin14.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/14.png"
-    },
-    {
-      "id":15,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin15.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/15.png"
-    },
-    {
-      "id":16,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin16.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/16.png"
-    },
-    {
-      "id":17,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin17.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/17.png"
-    },
-    {
-      "id":18,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin18.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/18.png"
-    },
-    {
-      "id":19,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin19.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/19.png"
-    },
-    {
-      "id":20,
-      "name_skin":"ATTACK OF TITAN SKIN",
-      "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin20.png",
-      "view_skin":"https://creativemods.github.io/titan/skin/20.png"
-    },{
+   {
       "id":1,
       "name_skin":"Kawaii Diamond",
       "skin_url":"https://lh3.googleusercontent.com/TXtEkOMu9JRhySXjHRzrUzxdGCwjpP_LIJmVMwlEkL_CX7MAqNtHIgnhQmP6O79UsgqFpRwfk1lKlKCi6rS84Q",
