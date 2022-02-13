@@ -6,19 +6,19 @@
 
     {
 
-      "select_main_ads": "ADMOB",
+      "select_main_ads":"APPLOVIN-D",
 
       "select_backup_ads":"APPLOVIN-M",
 
-      "main_ads_banner": "qwerty1234",
+      "main_ads_banner": "4b10c1c941543a26",
 
-      "main_ads_intertitial":"qwerty1234",
+      "main_ads_intertitial":"712c71da9bfce0df",
 
       "native_for_admob":"qwerty1234",
 
-      "backup_ads_banner":"qwerty1234",
+      "backup_ads_banner":"4b10c1c941543a26",
 
-      "backup_ads_intertitial":"qwerty1234",
+      "backup_ads_intertitial":"712c71da9bfce0df",
 
       "interval_intertitial": 1,
 
