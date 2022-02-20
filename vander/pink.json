@@ -6,15 +6,15 @@
 
     {
 
-      "select_main_ads": "APPLOVIN-M",
+      "select_main_ads": "ADMOB",
 
       "select_backup_ads":"APPLOVIN-D",
 
-      "main_ads_banner": "e4fa5eb2a0953400",
+      "main_ads_banner": "ca-app-pub-3361819946658765/6067984247",
 
-      "main_ads_intertitial":"2a8c7d409a6692b9",
+      "main_ads_intertitial":"ca-app-pub-3361819946658765/9815657560",
 
-      "native_for_admob":"ca-app-pub-2522678144467527/9936123246",
+      "native_for_admob":"ca-app-pub-3361819946658765/7555830897",
 
       "backup_ads_banner":"e4fa5eb2a0953400",
 
