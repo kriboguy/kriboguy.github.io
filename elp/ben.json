@@ -9,7 +9,7 @@
       "native_for_admob":"ca-app-pub-3361819946658765/2843738928",
       "backup_ads_banner":"d2ec9ad38cf124f1",
       "backup_ads_intertitial":"e93141d693a135b4",
-      "interval_intertitial": 1,
+      "interval_intertitial": 5,
       "initialize_sdk":"204434196",
       "initialize_sdk_backup_ads":"204434196",
       "high_paying_keyword_1": "diamond",
