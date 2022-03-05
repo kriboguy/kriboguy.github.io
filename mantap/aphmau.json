@@ -9,7 +9,7 @@
       "native_for_admob":"ca-app-pub-3361819946658765/8383495708",
       "backup_ads_banner":"0b9683b5c76871e3",
       "backup_ads_intertitial":"b1ed283c50f16207",
-      "interval_intertitial": 1,
+      "interval_intertitial": 5,
       "initialize_sdk":"204172822",
       "initialize_sdk_backup_ads":"204172822",
       "high_paying_keyword_1": "gold",
