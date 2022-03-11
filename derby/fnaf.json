@@ -24,19 +24,7 @@
  
   "Skin":
   [
-        {
-      "id":1,
-      "name_skin":"fnaf VR",
-      "skin_url":"https://lh3.googleusercontent.com/lMXOnLvKxjSzqBzSimVnsZ7h4-jJDDoj7Kv4LqAkoi1P5vOhDmUU4f6-A4wT2TqlWhmZZfyd6ET-1RytjfgmfA",
-      "view_skin":"https://lh3.googleusercontent.com/q1S8BSSw_hDVGYSGOygccaOf0POcWE0X8nm4sZEvwkAKB8HZwXD_1bXjvAUR3lBAqTbay_QII6LKT3ZiipPZ"
-    },
-    {
-      "id":2,
-      "name_skin":"Fazbear",
-      "skin_url":"https://lh3.googleusercontent.com/_FdMs3m2AtVBDZFHgq0WXdC9BhYk8lLjxmTlxJ6tD26w958YpQg167OzET2UWSGqZqICjjtFk-g59DWRAVRH",
-      "view_skin":"https://lh3.googleusercontent.com/RsxIbL-gtvd-oe6X3OfdzYTbipVLOr4te9oWZAUDtYHdo_KwRqNlOAARH2OCqW8U2QqV_3NBEHTVb-52T8cH1g"
-    },
-    {
+     {
           "id":1,
           "name_skin":"FNAF 9",
           "skin_url":"https://aweu.net/2022/Quirallesi/FNAF9/png/FNAF9_1.png",
@@ -871,6 +859,48 @@
           "view_skin":"https://aweu.net/2022/Quirallesi/FNAF9/thumb/FNAF9_131.png",
           "skin_url":"https://aweu.net/2022/Quirallesi/FNAF9/png/FNAF9_131.png",
           "name_skin":"FNAF 9"
+        }
+        ,
+        {
+          "id":132,
+          "view_skin":"https://aweu.net/2022/Quirallesi/FNAF9/thumb/FNAF9_132.png",
+          "skin_url":"https://aweu.net/2022/Quirallesi/FNAF9/png/FNAF9_132.png",
+          "name_skin":"FNAF 9"
+        }
+        ,
+        {
+          "id":133,
+          "view_skin":"https://aweu.net/2022/Quirallesi/FNAF9/thumb/FNAF9_133.png",
+          "skin_url":"https://aweu.net/2022/Quirallesi/FNAF9/png/FNAF9_133.png",
+          "name_skin":"FNAF 9"
+        }
+        ,
+        {
+          "id":134,
+          "view_skin":"https://aweu.net/2022/Quirallesi/FNAF9/thumb/FNAF9_134.png",
+          "skin_url":"https://aweu.net/2022/Quirallesi/FNAF9/png/FNAF9_134.png",
+          "name_skin":"FNAF 9"
+        }
+        ,
+        {
+          "id":135,
+          "view_skin":"https://aweu.net/2022/Quirallesi/FNAF9/thumb/FNAF9_135.png",
+          "skin_url":"https://aweu.net/2022/Quirallesi/FNAF9/png/FNAF9_135.png",
+          "name_skin":"FNAF 9"
+        }
+        ,
+        {
+          "id":136,
+          "view_skin":"https://aweu.net/2022/Quirallesi/FNAF9/thumb/FNAF9_136.png",
+          "skin_url":"https://aweu.net/2022/Quirallesi/FNAF9/png/FNAF9_136.png",
+          "name_skin":"FNAF 9"
+        }
+        ,
+        {
+          "id":137,
+          "view_skin":"https://aweu.net/2022/Quirallesi/FNAF9/thumb/FNAF9_137.png",
+          "skin_url":"https://aweu.net/2022/Quirallesi/FNAF9/png/FNAF9_137.png",
+         "name_skin":"FNAF 9"
         }
         ,
         {
