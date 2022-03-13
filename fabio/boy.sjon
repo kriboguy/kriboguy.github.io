@@ -2,23 +2,23 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"qwerty1234",
-      "admob_banner":"qwerty1234",
-      "admob_inter":"qwerty1234",
-      "admob_native":"qwerty1234",
-      "interval":4,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "qwerty1234",
+      "main_ads_intertitial":"qwerty1234",
+      "native_for_admob":"qwerty1234",
+      "backup_ads_banner":"qwerty1234",
+      "backup_ads_intertitial":"qwerty1234",
+      "interval_intertitial": 1,
+      "initialize_sdk":"204172822",
+      "initialize_sdk_backup_ads":"204172822",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
      "Skin":
