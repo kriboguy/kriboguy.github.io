@@ -1,0 +1,1254 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3361819946658765/6130767268",
+      "main_ads_intertitial":"ca-app-pub-3361819946658765/2754629034",
+      "native_for_admob":"ca-app-pub-3361819946658765/6043137358",
+      "backup_ads_banner":"ecee4dc267b333da",
+      "backup_ads_intertitial":"9cc8c57eddc1501e",
+      "interval_intertitial": 5,
+      "initialize_sdk":"204172822",
+      "initialize_sdk_backup_ads":"204172822",
+      "high_paying_keyword_1": "gold",
+      "high_paying_keyword_2": "bank",
+      "high_paying_keyword_3": "forex",
+      "high_paying_keyword_4": "crypto",
+      "high_paying_keyword_5": "bitcoin",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Skin":
+  [{
+    "id":1,
+    "name_skin":"ariel",
+    "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/1_Ariel_The_Little_Mermaid.png",
+    "view_skin":"https://lh3.googleusercontent.com/iLcE1WXC3sw4q_oWtGQ070jsTO4uqVQRqP08cMAIY9WhnSUY607hJ4S9so5TbD-f23fpZ8nMjuMh8-7PvqU5ag"
+  },
+    {
+      "id":2,
+      "name_skin":"Mermaid Princess",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/2_Mermaid_Princess.png",
+      "view_skin":"https://lh3.googleusercontent.com/TR3nO4cbhY7qwi-Ygw2gN3TyYBfrODYVf9ZAYyb7PKnndyvMn3Rm6WsopQGp6MjjpRt447dmSpyzoocG3i19zw"
+    },
+    {
+      "id":3,
+      "name_skin":"Mermaid Girl",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/3_Mermaid_Girl.png",
+      "view_skin":"https://lh3.googleusercontent.com/Nyo1D5rUgyCGtlD1FLEFV3bM3lTsSmqZrgJHgI8VzWnb5Gib1BN4ySzezVjBpOHFItm1_E8VI5aCQBhTn0JNjVQ"
+    },
+    {
+      "id":4,
+      "name_skin":"little kelly mermaid",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/4_little_kelly_mermaid.png",
+      "view_skin":"https://lh3.googleusercontent.com/7xfJdezqqt5JwPXroOtaEgzIS790WfLv3UVk_6-u8sa9qwvpJbx_8DBlncTOzyh2Ok5_bkHMxOBcmEOg82lIhzw"
+    },
+    {
+      "id":5,
+      "name_skin":"Maya's Mermaid Skin",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/5_Maya_s_Mermaid_Skin.png",
+      "view_skin":"https://lh3.googleusercontent.com/K53r8PN4W-VbbUBhuMRwnVhRmU59ZwLHlBHlw1FBnXsNTRbj9DE6jb8gv48VGbNJKjj6ai6ve2LGKLPdeGawrg"
+    },
+    {
+      "id":6,
+      "name_skin":"swimming Princess mermaid Laura",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/6_swimming_Princess_mermaid_Laura.png",
+      "view_skin":"https://lh3.googleusercontent.com/bfTVisz2cWAn_coloqfGwMTUW5lDzS6n7D2CIf_cSHmHu0FHDCJTSlPCWb58K4rWAcoX2mJJNs90I6J0mvTe"
+    },
+    {
+      "id":7,
+      "name_skin":"Mermaid Queen",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/7_Mermaid_Queen.png",
+      "view_skin":"https://lh3.googleusercontent.com/FDucl29OVyQ1KW5y1yHSwBpqcl-5vbmXcmwBTdGhO8-6iMr1WDTTl129gYawTcn0MgtablR1RkNPmDisB6q5VQ"
+    },
+    {
+      "id":8,
+      "name_skin":"Quenn of mermaid",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/8_Quenn_of_mermaid.png",
+      "view_skin":"https://lh3.googleusercontent.com/uK8RoV5kBL9VIziVOYNcAFCu7ttRuS14poBntXl8eJODvIQdlieCaAATkLS5SQM5WbZMekSPRbd09Ja0UJGtJQ"
+    },
+    {
+      "id":9,
+      "name_skin":"Modified Mermaid",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/9_Modified_Mermaid.png",
+      "view_skin":"https://lh3.googleusercontent.com/xboym-hAs49xWQF97Q7PI0oBzpxoU4y1xnibD9ruB6c4vbCjl-fBK1fvaV39JD3X9So7GQ8hlk97NaPyuTiggEM"
+    },
+    {
+      "id":10,
+      "name_skin":"Nature Princess Mermaid Skin",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/10_Nature_Princess_Mermaid_Skin.png",
+      "view_skin":"https://lh3.googleusercontent.com/9fppg8pm1ApOO2uI-en3okgIEQOjGeqsxzrmAMZdI8d2sUJNSkWnZWPn4QUjA4Ggi_ayyayLeCKtNxOrZ-HGWA"
+    },
+    {
+      "id":11,
+      "name_skin":"Fire Princess Mermaid Skin",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/11_Fire_Princess_Mermaid_Skin.png",
+      "view_skin":"https://lh3.googleusercontent.com/FwRoJgYFHSt-HI3ZYuyuSgWK6otGh8OPA1yomYqqpRKwXx9cRRNnKwnqGRzWYLjPhsvicKeKPIoybxb9PyCnEQ"
+    },
+    {
+      "id":12,
+      "name_skin":"Aphmau Mermaid Edit",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/12_Aphmau_Mermaid_Edit.png",
+      "view_skin":"https://lh3.googleusercontent.com/HWRHGI3lAlzm7KCVf3IYYYIfmv7xI6ts_tZ2-AOGvswriYULzyeUpXmHMRT7r0iBKjCmTS1rHKCld0aBYBh4u4E"
+    },
+    {
+      "id":13,
+      "name_skin":"The Pink Mermaid",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/13_The_Pink_Mermaid.png",
+      "view_skin":"https://lh3.googleusercontent.com/dXe1CQDBKoX977B1JL1TU78-LwTemEj8c7cZnR9V5fs58AYn50s-fJHdOwwnAhiTC_xwk_E50TV-bMODY_4iyrk"
+    },
+    {
+      "id":14,
+      "name_skin":"Aphmau Mermaid Editthe blite mermaid",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/14_the_blite_mermaid.png",
+      "view_skin":"https://lh3.googleusercontent.com/GTtccf6dMxV3hua0vYgCy2zEYQPBR5TvDMj03McT8WDw4gWfNw4zkQRLVp_mMCdKuEVI5VStrzxQcDT-7sztbpg"
+    },
+    {
+      "id":15,
+      "name_skin":"Mermaid Man",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/15_MERMAID_MAN.png",
+      "view_skin":"https://lh3.googleusercontent.com/gzmPupLKqWzVltvS3Ue6sCy7pvufP21ZDStW9qKveoiv9LXl0v_osuZ8Y4UTE3bbv5OYEE0xIBbGo7o8iectadM"
+    },
+    {
+      "id":1,
+      "name_skin":"Pubg",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg.png",
+      "view_skin":"https://lh3.googleusercontent.com/YQbqb6VWwAJlmiT7TgJzV9GFpZ5QjhVS75e41vYaIcXR-jvmAaobz45yHLi0Cgt9PGwMSobVVDCVoU8eRh4RrA"
+    },
+    {
+      "id":2,
+      "name_skin":"PUBG Cosplay",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg_cosplay.png",
+      "view_skin":"https://lh3.googleusercontent.com/ZshSnGqwCd_gZfPuWWA7PbM94dMi4zrAWqFfiEKztXvWyaHYOkbKDrFRpf1uPmr05JIUMM5PmnOae24qJGGd"
+    },
+    {
+      "id":3,
+      "name_skin":"Firaun Pubg",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/firaun_pubg.png",
+      "view_skin":"https://lh3.googleusercontent.com/Odlwn3VBEJlxleXXsWxX7VznPSjypUk61-L796nzdtq53cd249LQUDa2qAltCdz0O1zEzW3RIJ6bEnd4OallCxI"
+    },
+    {
+      "id":4,
+      "name_skin":"Pubg 1",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-1.png",
+      "view_skin":"https://lh3.googleusercontent.com/iJMSuxyCabW-UohmWK8Y45p4B55haHt0z3SVNOqSGth01ETRrVkDxJIgX-fzqqI5e0ZBZw5hyUpHNZTBCt4l"
+    },
+    {
+      "id":5,
+      "name_skin":"Pubg 2",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-2.png",
+      "view_skin":"https://lh3.googleusercontent.com/5w-it3ItiBo3I1ktWI8x6LCjluP7H8mb0ODysRJChNBsVdi6G0nxvrxtrLbTgWhZlrmyTstqIsMe-ts1Owfj6w"
+    },
+    {
+      "id":6,
+      "name_skin":"Hyper The PUBG Player",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/hyper-pubg.png",
+      "view_skin":"https://lh3.googleusercontent.com/p85JBfYLY0nN4O1L1Qz2jwMokWkYTCBx8Ylu5fMoShjMxc6PI1Ox7-WuQnO__8wdnOsFwJKA9DLXi13_C0io5A"
+    },
+    {
+      "id":7,
+      "name_skin":"PUBG Bao Dep Zai",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-bao.png",
+      "view_skin":"https://lh3.googleusercontent.com/904c_O5JOgssnBsvUPdXMCKHZEZonV2DERVgz0Yc78VOBtlRGuU52lAAPYjGHqPD3U-O-Gzt8GKmuHlTS7w4"
+    },
+    {
+      "id":8,
+      "name_skin":"Pubg Assasin",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-assasin.png",
+      "view_skin":"https://lh3.googleusercontent.com/op1dlM_JIbM9GunhgK3nQ9HLJ1DNxo8I8u5C0DpCpxsIacIUOEBIz4Y_ycPwh898Yb1qt9ieUV2aI4bdxWEk_Q"
+    },
+    {
+      "id":9,
+      "name_skin":"Lyra JJ PUBG",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/lyra-jj-pubg.png",
+      "view_skin":"https://lh3.googleusercontent.com/qqcD-J2eAQ60PUNm0nz0FnefY_YebLmaBW8qdaolhA5v9oW6-RB9_xJ-tjy0A1dku8Kf_CiVyW__jiiUz6x3Cg"
+    },
+    {
+      "id":10,
+      "name_skin":"Pubg Team",
+      "skin_url":"https://ia601400.us.archive.org/24/items/pubg-chicken/pubg/pubg-team.png",
+      "view_skin":"https://lh3.googleusercontent.com/ruub-saZ-eQ9Wz3j51aUOhRXa8N9nZS9_Z4iSC5FVu2OvnridZIfqS9JOzLcOIbimEiGdZzP9WGVZvDbv0Vv_g"
+    },
+    {
+      "id":11,
+      "name_skin":"Steve HD 365 Pubg",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/steve-hd.png",
+      "view_skin":"https://lh3.googleusercontent.com/thkWf8JMWL3xpd20dD5vvesAxI8yPiPT9z3sqihcKM7H4gIbydG5UicN97jm64NTBq-AdFlY5Bb5iBgPWJELHg"
+    },
+    {
+      "id":12,
+      "name_skin":"Pubg Rtq",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-rtq.png",
+      "view_skin":"https://lh3.googleusercontent.com/fMJJd6mFApbZqXl7NCc77Ir5OEg1V1LktCJUwHBwC1jexdod6bjwYXlfzyaNtYucUISFM-mWFtUMapHuV3x7dQ"
+    },
+    {
+      "id":13,
+      "name_skin":"Pubg Player",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-player.png",
+      "view_skin":"https://lh3.googleusercontent.com/qFOghEpcbxA640Un5ZsuFyF8Es3ad969lENJgom0U77rHl-MUxF1m-wzoIwJvXUxbDzOibMMXAXQ-3IariBgTks"
+    },
+    {
+      "id":14,
+      "name_skin":"Fredinator Pubg",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/fredinator-pubg.png",
+      "view_skin":"https://lh3.googleusercontent.com/39OG9XOvXZBTL6M6SxFM6arJ8aA7EOveP_lK_sEgEL29GnntzMdczgNAuWOheRHJVtOSpkcdvxd3xM2C3QD5zQ"
+    },
+    {
+      "id":15,
+      "name_skin":"Pubg Jo",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-jo.png",
+      "view_skin":"https://lh3.googleusercontent.com/JlMBQ2fl9X2DRE_W0dHKJOzLKY33uvsmAEAcEuEEYdM826gLT7M97J9c39_5uU_MhtyQ44GhKddnoXelNd_q"
+    },
+    {
+      "id":16,
+      "name_skin":"PUBG New Character",
+      "skin_url":"https://ia601400.us.archive.org/24/items/pubg-chicken/pubg/pubg-new-character.png",
+      "view_skin":"https://lh3.googleusercontent.com/-TpfbKdyzduy1F268ZBOOXMNa8CX3xQRrRXw8YnkkncF-8yTRD6Znf86wIjv1UoqjVPhykBfXeH_o_E20EemLg"
+    },
+    {
+      "id":17,
+      "name_skin":"Pubg Minecraft Guy",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-minecraft.png",
+      "view_skin":"https://lh3.googleusercontent.com/aIP-cY6tyR18VrYoRp9CxOk-RmaFeWd0x2Cf_Xcd5NL0vgzqHoglrQRaTkrrb1mddDWTcl1tn1fQ5BddhqoNdSg"
+    },
+    {
+      "id":18,
+      "name_skin":"Pubg Gamer",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-gamer.png",
+      "view_skin":"https://lh3.googleusercontent.com/ELj8I2rPxwAzPa19TdhQLLmlhe8bpzPISMSmPIBMAKbkzdN4ukogP3017lc_DdfYqkdqNiu7Huzu45Ug4cC6"
+    },
+    {
+      "id":19,
+      "name_skin":"Pubg Mc Mcpc",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-mc-mcpc.png",
+      "view_skin":"https://lh3.googleusercontent.com/jZ7FDopyvhV4PLApsORh5fRGw2hep5aWsxlbWo9p7n-6uetCvybJ3li7scOjsTyJ3FPF4HMOqteftBF8Swf6"
+    },
+    {
+      "id":20,
+      "name_skin":"Gamedroid Pubg",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/gamedroid-pubg.png",
+      "view_skin":"https://lh3.googleusercontent.com/DI66SdCTJqqJe7ge_mrTn8bSblLwmTkUR7dwGOlnEo-Gnxb2dszoFnu5nSCh5KvBI3_1HX1o78PJ3uqZBAZ90g"
+    },
+    {
+      "id":21,
+      "name_skin":"Pubg Chicken",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-chicken.png",
+      "view_skin":"https://lh3.googleusercontent.com/ie3Dnzydu3qmEZTnAX7-A_XJj3Mvvc8CB97NjyyDDw0_GFBVweADVtGZjlHMD16ms2wNTI6iznEniCsooOtgOQ"
+    },
+    {
+      "id":22,
+      "name_skin":"Pubg Rainbow",
+      "skin_url":"https://ia601400.us.archive.org/24/items/pubg-chicken/pubg/pubg-rainbow.png",
+      "view_skin":"https://lh3.googleusercontent.com/1SSNQsyjS0mkYCyq2b0csTmZx145UzEbmUUgFjPSc7WcuNkq9F74xml3WeFXlyT6yPczgvXrRB42uFe3lnZBaKo"
+    },
+    {
+      "id":23,
+      "name_skin":"Pubg Minecaft",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-minecaft.png",
+      "view_skin":"https://lh3.googleusercontent.com/jqvH9UMWFqGID5bYZv6t_0_xpXSbBqrwydt_pK7ZK4jWnZq34Th5k9rLDCZC3M9M0ULThWdiH3nCyWhpw9Q_qQ"
+    },
+    {
+      "id":24,
+      "name_skin":"Pubg Adam",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-adam.png",
+      "view_skin":"https://lh3.googleusercontent.com/bwMM6sagGwSsq-VzKx_jUGhepAnybP1FN593dJQ4ztVd_JeJCeowvemg7bToEAMuj3VvaLIYkw3pwt7WzWdsRKk"
+    },
+
+    {
+      "id":25,
+      "name_skin":"PUBG Girl",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-girl.png",
+      "view_skin":"https://lh3.googleusercontent.com/KxDQtfqla7yVvP8_6k2EY5p4mArsYxrUoLg7YxQfZdKiYU9kPG9XpHtBhkDMVgLMLfDzeIycNi1UZru5L2Z8MQ"
+    },
+    {
+      "id":26,
+      "name_skin":"Pubg LIte Skin",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-lite-skin.png",
+      "view_skin":"https://lh3.googleusercontent.com/EBOHa1VdDDKNF-VKbP_3ThVauxO2pF0KwlKS8U6uzaHArIwNfZhWjIkIKbw1DowqI4ftXlLJ-X0IDZKatF0LFA"
+    },
+    {
+      "id":27,
+      "name_skin":"PUBG Lol",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-lol.png",
+      "view_skin":"https://lh3.googleusercontent.com/u48l4a4xbIZjJkYRfgMINJF9F0nrePX1vtwrzyjar6wIrrX9Sxk1dftUX6c_Z59291jqt7XnQRyB3AeeK2ly"
+    },
+    {
+      "id":28,
+      "name_skin":"PUBG Creeper Mode",
+      "skin_url":"https://ia601400.us.archive.org/24/items/pubg-chicken/pubg/pubg-creeper.png",
+      "view_skin":"https://lh3.googleusercontent.com/1df0AE95OnpZzgxclBxqwGPHIr11_gnkt9HAXX8xOd7qgLg3YGHnow8SX2f2dcmrHYFrm0Vi6Rtu8rpZTV21"
+    },
+    {
+      "id":29,
+      "name_skin":"Pubg Noob Player",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-noob-player.png",
+      "view_skin":"https://lh3.googleusercontent.com/5iq_-8DxkNGln01JF2qXx6ZlwXVXV38-oNH_NCwTL-899z5_6gslSZwWdwfQua7EnDlS2uVI-TkejltAjoU37g"
+    },
+    {
+      "id":30,
+      "name_skin":"Pubg Navidad",
+      "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-navidad.png",
+      "view_skin":"https://lh3.googleusercontent.com/yPoHwSzAKnIxF9PA3WPCLWex5tuUeHsXBJEJZt41ajwBVeXxHJ4GgoLiHNK2cLqmucbd-7U8KEv8_P3tTHae8A"
+    },
+    {
+      "id":1,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin1.png",
+      "view_skin":"file:///android_asset/1.png"
+    },
+    {
+      "id":2,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin2.png",
+      "view_skin":"file:///android_asset/2.png"
+    },
+    {
+      "id":3,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin3.png",
+      "view_skin":"file:///android_asset/3.png"
+    },
+    {
+      "id":4,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin4.png",
+      "view_skin":"file:///android_asset/4.png"
+    },
+    {
+      "id":5,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin5.png",
+      "view_skin":"file:///android_asset/5.png"
+    },
+    {
+      "id":6,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin6.png",
+      "view_skin":"file:///android_asset/6.png"
+    },
+    {
+      "id":7,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin7.png",
+      "view_skin":"file:///android_asset/7.png"
+    },
+    {
+      "id":8,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin8.png",
+      "view_skin":"file:///android_asset/8.png"
+    },
+    {
+      "id":9,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin9.png",
+      "view_skin":"file:///android_asset/9.png"
+    },
+    {
+      "id":10,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin10.png",
+      "view_skin":"file:///android_asset/10.png"
+    },
+    {
+      "id":11,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin11.png",
+      "view_skin":"file:///android_asset/11.png"
+    },
+    {
+      "id":12,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin12.png",
+      "view_skin":"file:///android_asset/12.png"
+    },
+    {
+      "id":13,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin13.png",
+      "view_skin":"file:///android_asset/13.png"
+    },
+    {
+      "id":14,
+      "name_skin":"ONE BLOCK SKIN",
+      "skin_url":"https://rastariski01.github.io/oneblock/skin14.png",
+      "view_skin":"file:///android_asset/14.png"
+    },
+    {
+      "id":15,
+      "name_skin":"BEN ALIEN SKIN",
+      "skin_url":"https://rastariski01.github.io/benalienmod/skin15.png",
+      "view_skin":"file:///android_asset/15.png"
+    },
+    {
+      "id":16,
+      "name_skin":"BEN ALIEN SKIN",
+      "skin_url":"https://rastariski01.github.io/benalienmod/skin16.png",
+      "view_skin":"file:///android_asset/16.png"
+    }
+  ,{
+    "id":17,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin17.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin17.png"
+  },{
+    "id":18,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin18.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin18.png"
+  },{
+    "id":19,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin19.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin19.png"
+  },
+    {
+      "id":20,
+      "name_skin":"",
+      "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin20.png",
+      "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin20.png"
+    }, {
+    "id":21,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin21.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin21.png"
+  },{
+    "id":22,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin22.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin22.png"
+  },{
+    "id":23,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin23.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin23.png"
+  },{
+    "id":24,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin24.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin24.png"
+  },{
+    "id":25,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin25.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin25.png"
+  },{
+    "id":26,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin26.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin26.png"
+  },{
+    "id":27,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin27.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin27.png"
+  },{
+    "id":28,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin28.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin28.png"
+  },{
+    "id":29,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin29.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin29.png"
+  },
+    {
+      "id":30,
+      "name_skin":"",
+      "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin10.png",
+      "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin10.png"
+    },
+    {
+      "id":31,
+      "name_skin":"",
+      "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin31.png",
+      "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin31.png"
+    },{
+    "id":32,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin32.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin32.png"
+  },{
+    "id":33,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin33.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin33.png"
+  },{
+    "id":34,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin34.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin34.png"
+  },{
+    "id":35,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin35.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin35.png"
+  },{
+    "id":36,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin36.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin36.png"
+  },{
+    "id":37,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin37.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin37.png"
+  },{
+    "id":38,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin38.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin38.png"
+  },{
+    "id":39,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin39.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin39.png"
+  },
+    {
+      "id":40,
+      "name_skin":"",
+      "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin40.png",
+      "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin40.png"
+    }, {
+    "id":41,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin41.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin41.png"
+  },{
+    "id":42,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin42.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin42.png"
+  },{
+    "id":43,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin43.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin43.png"
+  },{
+    "id":44,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin44.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin44.png"
+  },{
+    "id":45,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin45.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin45.png"
+  },{
+    "id":46,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin46.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin46.png"
+  },{
+    "id":47,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin47.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin47.png"
+  },{
+    "id":48,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin48.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin48.png"
+  },{
+    "id":49,
+    "name_skin":"",
+    "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin49.png",
+    "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin49.png"
+  },
+    {
+      "id":50,
+      "name_skin":"",
+      "skin_url":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin50.png",
+      "view_skin":"https://raw.githubusercontent.com/godev3/mutantmod/main/skin/skin50.png"
+    },
+    {
+      "id":51,
+      "name_skin":"Free🤩 of Fire💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin51.png",
+      "view_skin":"file:///android_asset/51.png"
+    },
+    {
+      "id":52,
+      "name_skin":"Free🤩 of Fire💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin52.png",
+      "view_skin":"file:///android_asset/52.png"
+    },
+    {
+      "id":53,
+      "name_skin":"Free🤩 of Fire💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin53.png",
+      "view_skin":"file:///android_asset/53.png"
+    },
+    {
+      "id":54,
+      "name_skin":"Free🤩 of Fire💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin54.png",
+      "view_skin":"file:///android_asset/54.png"
+    },
+    {
+      "id":55,
+      "name_skin":"Free🤩 of Fire💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin55.png",
+      "view_skin":"file:///android_asset/55.png"
+    },
+    {
+      "id":56,
+      "name_skin":"Free🤩 of Fire💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin56.png",
+      "view_skin":"file:///android_asset/56.png"
+    },
+    {
+      "id":57,
+      "name_skin":"Free🤩 of Fire💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin57.png",
+      "view_skin":"file:///android_asset/57.png"
+    },
+    {
+      "id":58,
+      "name_skin":"Free🤩 of Fire💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin58.png",
+      "view_skin":"file:///android_asset/58.png"
+    },
+    {
+      "id":59,
+      "name_skin":"Free🤩 of Fire💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin59.png",
+      "view_skin":"file:///android_asset/59.png"
+    },
+    {
+      "id":60,
+      "name_skin":"Free🤩 of Fire💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin60.png",
+      "view_skin":"file:///android_asset/60.png"
+    },
+    {
+      "id":61,
+      "name_skin":"Free🤩 of Fire💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin61.png",
+      "view_skin":"file:///android_asset/61.png"
+    },
+    {
+      "id":62,
+      "name_skin":"Free🤩 of Fire💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin62.png",
+      "view_skin":"file:///android_asset/62.png"
+    },
+    {
+      "id":63,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin63.png",
+      "view_skin":"file:///android_asset/63.png"
+    },
+    {
+      "id":64,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin64.png",
+      "view_skin":"file:///android_asset/64.png"
+    },
+    {
+      "id":65,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin65.png",
+      "view_skin":"file:///android_asset/65.png"
+    },
+    {
+      "id":66,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin66.png",
+      "view_skin":"file:///android_asset/66.png"
+    },
+    {
+      "id":67,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin67.png",
+      "view_skin":"file:///android_asset/67.png"
+    },
+    {
+      "id":68,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin68.png",
+      "view_skin":"file:///android_asset/68.png"
+    },
+    {
+      "id":69,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin69.png",
+      "view_skin":"file:///android_asset/69.png"
+    },
+    {
+      "id":70,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin70.png",
+      "view_skin":"file:///android_asset/70.png"
+    },
+    {
+      "id":71,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin71.png",
+      "view_skin":"file:///android_asset/71.png"
+    },
+    {
+      "id":72,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin72.png",
+      "view_skin":"file:///android_asset/72.png"
+    },
+    {
+      "id":73,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin73.png",
+      "view_skin":"file:///android_asset/73.png"
+    },
+    {
+      "id":74,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin74.png",
+      "view_skin":"file:///android_asset/74.png"
+    },
+    {
+      "id":75,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin75.png",
+      "view_skin":"file:///android_asset/75.png"
+    },
+    {
+      "id":76,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin76.png",
+      "view_skin":"file:///android_asset/76.png"
+    },
+    {
+      "id":77,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin77.png",
+      "view_skin":"file:///android_asset/77.png"
+    },
+    {
+      "id":78,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin78.png",
+      "view_skin":"file:///android_asset/78.png"
+    },
+    {
+      "id":79,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin79.png",
+      "view_skin":"file:///android_asset/79.png"
+    },
+    {
+      "id":80,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin80.png",
+      "view_skin":"file:///android_asset/80.png"
+    },
+    {
+      "id":81,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin81.png",
+      "view_skin":"file:///android_asset/81.png"
+    },
+    {
+      "id":82,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin82.png",
+      "view_skin":"file:///android_asset/82.png"
+    },
+    {
+      "id":83,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin83.png",
+      "view_skin":"file:///android_asset/83.png"
+    },
+    {
+      "id":84,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin84.png",
+      "view_skin":"file:///android_asset/84.png"
+    },
+    {
+      "id":85,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin85.png",
+      "view_skin":"file:///android_asset/85.png"
+    },
+    {
+      "id":86,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin86.png",
+      "view_skin":"file:///android_asset/86.png"
+    },
+    {
+      "id":87,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin87.png",
+      "view_skin":"file:///android_asset/87.png"
+    },
+    {
+      "id":88,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin88.png",
+      "view_skin":"file:///android_asset/88.png"
+    },
+    {
+      "id":89,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin89.png",
+      "view_skin":"file:///android_asset/89.png"
+    },
+    {
+      "id":90,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin90.png",
+      "view_skin":"file:///android_asset/90.png"
+    },
+    {
+      "id":91,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin91.png",
+      "view_skin":"file:///android_asset/91.png"
+    },
+    {
+      "id":92,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin92.png",
+      "view_skin":"file:///android_asset/92.png"
+    },
+    {
+      "id":93,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin93.png",
+      "view_skin":"file:///android_asset/93.png"
+    },
+    {
+      "id":94,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin94.png",
+      "view_skin":"file:///android_asset/94.png"
+    },
+    {
+      "id":95,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin95.png",
+      "view_skin":"file:///android_asset/95.png"
+    },
+    {
+      "id":96,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin96.png",
+      "view_skin":"file:///android_asset/96.png"
+    },
+    {
+      "id":97,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin97.png",
+      "view_skin":"file:///android_asset/97.png"
+    },
+    {
+      "id":98,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin98.png",
+      "view_skin":"file:///android_asset/98.png"
+    },
+    {
+      "id":99,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin99.png",
+      "view_skin":"file:///android_asset/99.png"
+    },
+    {
+      "id":100,
+      "name_skin":"KAWAII SKIN",
+      "skin_url":"https://rastariski01.github.io/kawaiskin/skin/skin100.png",
+      "view_skin":"file:///android_asset/100.png"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://creativemods.github.io/boboi/addon/laserguns.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks Addon",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/theimposter.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/uncraftingtable.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile Addon",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/actualguns.png",
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
+    },{
+      "id":1,
+      "nama_add":"guns 1 addon",
+      "add_url":"https://rastariski01.github.io/wepaonmcpe/1.zip",
+      "addB_url":"https://rastariski01.github.io/wepaonmcpe/1_B.mcpack",
+      "addR_url":"https://rastariski01.github.io/wepaonmcpe/1_R.mcpack",
+      "view_add":"https://creativemods.github.io/weapon/addon/ad1.png",
+      "des_add":"https://creativemods.github.io/weapon/addon/adon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"guns 2 addon",
+      "add_url":"https://rastariski01.github.io/wepaonmcpe/2.zip",
+      "addB_url":"https://rastariski01.github.io/wepaonmcpe/2_B.mcpack",
+      "addR_url":"https://rastariski01.github.io/wepaonmcpe/2_R.mcpack",
+      "view_add":"https://creativemods.github.io/weapon/addon/ad2.png",
+      "des_add":"https://creativemods.github.io/weapon/addon/adon.html"
+    },
+    {
+      "id":1,
+      "nama_add":"guns 3 addon",
+      "add_url":"https://rastariski01.github.io/wepaonmcpe/3.zip",
+      "addB_url":"https://rastariski01.github.io/wepaonmcpe/3_B.mcpack",
+      "addR_url":"https://rastariski01.github.io/wepaonmcpe/3_R.mcpack",
+      "view_add":"https://creativemods.github.io/weapon/addon/ad3.png",
+      "des_add":"https://creativemods.github.io/weapon/addon/adon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"shader mod",
+      "add_url":"https://rastariski01.github.io/shadermcpe/3R.mcpack",
+      "addB_url":"",
+      "addR_url":"https://rastariski01.github.io/shadermcpe/3R.mcpack",
+      "view_add":"file:///android_asset/ad3.png",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"shader mod",
+      "add_url":"https://rastariski01.github.io/shadermcpe/4R.mcpack",
+      "addB_url":"",
+      "addR_url":"https://rastariski01.github.io/shadermcpe/4R.mcpack",
+      "view_add":"file:///android_asset/ad4.png",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"shader mod",
+      "add_url":"https://rastariski01.github.io/shadermcpe/5R.mcpack",
+      "addB_url":"",
+      "addR_url":"https://rastariski01.github.io/shadermcpe/5R.mcpack",
+      "view_add":"file:///android_asset/ad5.png",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"shader mod",
+      "add_url":"https://rastariski01.github.io/shadermcpe/6R.mcpack",
+      "addB_url":"",
+      "addR_url":"https://rastariski01.github.io/shadermcpe/6R.mcpack",
+      "view_add":"file:///android_asset/ad6.png",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"shader mod",
+      "add_url":"https://rastariski01.github.io/shadermcpe/7R.mcpack",
+      "addB_url":"",
+      "addR_url":"https://rastariski01.github.io/shadermcpe/7R.mcpack",
+      "view_add":"file:///android_asset/ad7.png",
+      "des_add":"file:///android_asset/adon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/bedrock.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://ia801509.us.archive.org/27/items/amonguscraft_202010/map/Among-us-Map.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Among Us Craft",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/amonguscraft.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/amonguscraft.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"Among Craft",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/amongcraft.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/amongcraft.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/achievementworld.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":7,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":8,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    }, {
+      "id":1,
+      "nama_map":"ONE BLOCK MAP",
+      "map_url":"https://rastariski01.github.io/oneblock/1.zip",
+      "view_map":"file:///android_asset/map1.png",
+      "des_map":"file:///android_asset/map1.html"
+    },{
+    "id":1,
+    "nama_map":"War 💥 Maps",
+    "map_url":"https://rastariski01.github.io/ffskinmcpe/map/map1.zip",
+    "view_map":"https://creativemods.github.io/epep/skin/map1.png",
+    "des_map":"https://creativemods.github.io/epep/skin/map.html"
+  },
+    {
+      "id":2,
+      "nama_map":"War 💥 Maps",
+      "map_url":"https://rastariski01.github.io/ffskinmcpe/map/map2.zip",
+      "view_map":"https://creativemods.github.io/epep/skin/map2.png",
+      "des_map":"https://creativemods.github.io/epep/skin/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"War 💥 Maps",
+      "map_url":"https://rastariski01.github.io/ffskinmcpe/map/map3.zip",
+      "view_map":"https://creativemods.github.io/epep/skin/map3.png",
+      "des_map":"https://creativemods.github.io/epep/skin/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"ONE BLOCK MAP",
+      "map_url":"https://rastariski01.github.io/oneblock/2.zip",
+      "view_map":"file:///android_asset/map2.png",
+      "des_map":"file:///android_asset/map2.html"
+    },
+    {
+      "id":3,
+      "nama_map":"ONE BLOCK MAP",
+      "map_url":"https://rastariski01.github.io/oneblock/3.zip",
+      "view_map":"file:///android_asset/map3.png",
+      "des_map":"file:///android_asset/map3.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"Among Craft",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/amongcraft.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/amongcraft.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/achievementworld.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":7,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":8,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+      "des_map":"https://creativemods.github.io/freeday/map.html"
+    },
+    {
+      "id":9,
+      "nama_map":"Mechanics Apocalypse map for Minecraft PE 1.1.4",
+      "map_url":"http://arbanatcorp.xyz/mapsminecraft/mechanics-apocalypse.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-07/1501082307_mechanics-apocalypse-map.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/MechanicsApocalypsemap.html"
+    },
+    {
+      "id":10,
+      "nama_map":"Mechanical Apocalypse 2 map for Minecraft PE 1.1.0",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/mechanics-apocalypse-2.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-06/1496656391_mechanical-apocalypse-map-pe.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/MechanicalApocalypse2map.html"
+    },
+    {
+      "id":11,
+      "nama_map":"Mechanics Apocalypse 3 for Minecraft PE 1.1.5",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/mechanics-apocalypse-3.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-08/1502177087_mechanics-apocalypse-3.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/MechanicsApocalypse3.html"
+    },
+    {
+      "id":12,
+      "nama_map":"Radiator Springs map for Minecraft PE 1.0.8",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/carsland-ported.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-05/1494682985_lightning-mcqueen-in-minecraft.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/RadiatorSpringsmap.html"
+    },
+    {
+      "id":13,
+      "nama_map":"Realm of Beturune map for Minecraft PE 1.16.1",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/RealmofBeturunemap.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2020-06/1593541429_beturune-realm-2.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/RealmofBeturunemap.html"
+    },
+    {
+      "id":14,
+      "nama_map":"Saving Santa map for Minecraft PE 1.0.0",
+      "map_url":"http://arbanatcorp.xyz/mapsminecraft/SavingSantamap.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-12/1482429450_santa-claus-in-minecraft.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/SavingSantamap.html"
+    },
+    {
+      "id":15,
+      "nama_map":"Subnautica map for Minecraft PE 1.14.1",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/subnautica.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2019-12/1576869666_subnautica-map-2.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/Subnauticamap.html"
+    },
+    {
+      "id":16,
+      "nama_map":"The Building of Villager map",
+      "map_url":"http://arbanatcorp.xyz/mapsminecraft/the-building-of-villager.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2015-09/1441264871_villager.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/TheBuildingofVillagermap.html"
+    },
+    {
+      "id":17,
+      "nama_map":"The Fall of Heaven map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/the-fall-of-heaven-by-lordguntaz-smashpe-1.0.0.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-09/1474623665_the-fall-of-heaven-3.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/TheFallofHeavenmap.html"
+    },
+    {
+      "id":18,
+      "nama_map":"The Legend of Zelda map for Minecraft PE 1.0.3",
+      "map_url":"http://arbanatcorp.xyz/mapsminecraft/link-to-the-pastmapa.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-03/1488899772_link-legend-of-zelda-in-mcpe.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/TheLegendofZeldamap.html"
+    },
+    {
+      "id":19,
+      "nama_map":"The Walking Dead map",
+      "map_url":"http://arbanatcorp.xyz/mapsminecraft/twd-bean.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2015-09/1441556936_the-walking-dead-map-3.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/TheWalkingDeadmap.html"
+    },
+    {
+      "id":20,
+      "nama_map":"Turok Dimension map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/turok-bundle-update-1.2.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-10/1476367536_turok-dimension-map-pe.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/TurokDimensionmap.html"
+    },
+    {
+      "id":21,
+      "nama_map":"VerseCrafter: The Beginning map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/versecrafter-the-beginning-update-4.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2015-09/1441556936_the-walking-dead-map-3.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/VerseCrafterTheBeginningmap.html"
+    },
+    {
+      "id":22,
+      "nama_map":"Visions of Time",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/v.ot-map-v0.2.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-09/1474617264_visions-of-time-1.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/VisionsofTime.html"
+    },
+    {
+      "id":23,
+      "nama_map":"Alien Invasion map for Minecraft PE 0.16.0",
+      "map_url":"http://arbanatcorp.xyz/mapsminecraft/alien-invasion.605d227de07b.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-10/1477742258_alien-invasion-spaceships.jpg",
+      "des_map":"http://arbanatcorp.xyz/mapsminecraft/AlienInvasionmapforMinecraftPE.html"
+    }
+  ]
+}
