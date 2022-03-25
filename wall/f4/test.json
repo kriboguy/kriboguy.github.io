@@ -41,65 +41,223 @@
     }
   ],
 
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
-
-    }
-  ],
 
   "Data":
   [
-    {
-      "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
-    },
-    {
-      "id": 2,
-      "name_category": "Nature",
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-    },
-    {
-      "id":3,
-      "name_category": "Nature",
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
-    },
-    {
-      "id":4,
-      "name_category": "Animal",
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-    }
-  ,
-    {
-      "id":5,
-      "name_category": "Animal",
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
-    },
-    {
-      "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
-    }
-  ]
-}
+  {
+    "id": "9148005508528142",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/62/ad/62/62ad620f9391e83c47bc22c97ff1391e.jpg"
+  },
+  {
+    "id": "79868593383041992",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/85/6d/b1/856db1a855d92a5e9fd8888f36910556.png"
+  },
+  {
+    "id": "585608757780901175",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/c4/53/04/c4530421ce5dfac2c3e0ec1c3441bea4.jpg"
+  },
+  {
+    "id": "141933825747346741",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/c8/63/57/c86357428d9ea5ac198a93fc644a6c00.jpg"
+  },
+  {
+    "id": "6685099437345194",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/7d/eb/ee/7debeeacf6e417f079c61a29e3dcb1be.jpg"
+  },
+  {
+    "id": "780389441685928313",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/6a/5d/c3/6a5dc3dd408c76ab6df66dadddb2e705.jpg"
+  },
+  {
+    "id": "307933693274260350",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/87/e7/6d/87e76dc6306055e813c1aa529ac39ac3.jpg"
+  },
+  {
+    "id": "149322543885955166",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/c3/eb/b2/c3ebb2768cd218fb5f4756d9a4ebc022.jpg"
+  },
+  {
+    "id": "308004062024449121",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/0d/d7/8f/0dd78fc8871da55217b671a13e10587d.jpg"
+  },
+  {
+    "id": "1970393574749908",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/d4/2a/7f/d42a7f856102b1141d0bf08ab159160c.jpg"
+  },
+  {
+    "id": "147915169001071752",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/a9/5f/fc/a95ffcfd24d1f443c2d5cab5114b5a96.png"
+  },
+  {
+    "id": "772930354792658190",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/7a/01/7e/7a017e266b7c077754f9453bac650f4a.jpg"
+  },
+  {
+    "id": "171066485837159874",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/4e/1d/62/4e1d624463f5471c2eb290eb1d1fb3cb.jpg"
+  },
+  {
+    "id": "17873729762352557",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/69/4e/50/694e5005477ee4eeb150435d87af49de.jpg"
+  },
+  {
+    "id": "836473330775744173",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/af/40/ea/af40ea03efc09677d22809426fae9ba4.jpg"
+  },
+  {
+    "id": "156992737002130610",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/5f/e5/c2/5fe5c22ff52aaa2d9c63d5caa32d0b15.jpg"
+  },
+  {
+    "id": "1970393577256561",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/42/4c/c5/424cc57a6407d45124de007079705850.jpg"
+  },
+  {
+    "id": "367113807133443651",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/a8/f2/e6/a8f2e6e0821b01a79460645ddb0d6cce.jpg"
+  },
+  {
+    "id": "1970393574749876",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/76/13/eb/7613eb0514c25711597c3294bb204b7a.jpg"
+  },
+  {
+    "id": "9148005508633773",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/f0/c9/b6/f0c9b640dec84548955148c22618bd5c.jpg"
+  },
+  {
+    "id": "44965696269724724",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/a8/22/fc/a822fc33b46b477420ebdee07e7ecfa5.jpg"
+  },
+  {
+    "id": "805018502146564339",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/6d/1a/9e/6d1a9e9b6e8fb9d9b0dc00396f5250e5.jpg"
+  },
+  {
+    "id": "9359111712384605",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/01/08/62/010862e8aafb06d3fca63b3938ed0e8f.jpg"
+  },
+  {
+    "id": "3729612220708267",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/9b/d8/83/9bd883b062c06907a4906601db4c4c84.jpg"
+  },
+  {
+    "id": "454652524893417700",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/9e/e0/a8/9ee0a8f4a277b18e3ae3362d439579ed.png"
+  },
+  {
+    "id": "3799980926340278",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/b1/94/7d/b1947dc28ca07bda00bb5ab3f4e4ee7c.jpg"
+  },
+  {
+    "id": "21673641947936726",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/9c/10/2b/9c102bcb5906147cb53547a5541862f0.jpg"
+  },
+  {
+    "id": "525373112792490917",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/51/37/4c/51374c3fa39bbd077a134c66206f5f83.jpg"
+  },
+  {
+    "id": "332562753744642517",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/a7/28/c4/a728c4fbbf3a87b53942b5d2e2791468.jpg"
+  },
+  {
+    "id": "140806226974175",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/09/83/32/09833209b60c402d6cf63be6694048dd.jpg"
+  },
+  {
+    "id": "698339485973400012",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/a5/6c/83/a56c838cf476b36a74731a2a7ee21c5c.jpg"
+  },
+  {
+    "id": "33777065947472057",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/9a/7d/c5/9a7dc57b1131813f04d06c6124612090.jpg"
+  },
+  {
+    "id": "841328774135567083",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/39/96/98/399698a672c645fbbccf6de9d15fb8f7.jpg"
+  },
+  {
+    "id": "568086940519163184",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/7d/7b/24/7d7b2426be871df4417cda9fdacfc1e9.jpg"
+  },
+  {
+    "id": "414120128244181241",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/96/98/3b/96983b2d1741b8894f66904cd166749b.jpg"
+  },
+  {
+    "id": "765752742899959192",
+    "name_category": "black diamond",
+    "title": "black diamond",
+    "image": "https://i.pinimg.com/originals/c5/1b/f1/c51bf1c5164c42c5a6951e350626033e.png"
+  }
+]
