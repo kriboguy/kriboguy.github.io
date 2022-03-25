@@ -10,17 +10,17 @@
 
       "select_backup_ads":"APPLOVIN-M",
 
-      "main_ads_banner": "qwerty1234",
+      "main_ads_banner": "ca-app-pub-3361819946658765/9540817632",
 
-      "main_ads_intertitial":"qwerty1234",
+      "main_ads_intertitial":"ca-app-pub-3361819946658765/6914654297",
 
-      "native_for_admob":"qwerty1234",
+      "native_for_admob":"ca-app-pub-3361819946658765/9349245943",
 
       "backup_ads_banner":"qwerty1234",
 
-      "backup_ads_intertitial":"qwerty1234",
+      "backup_ads_intertitial":"30d0017a1aded9e4",
 
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
 
       "initialize_sdk":"204434196",
 
