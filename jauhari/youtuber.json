@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "qwerty1234",
       "main_ads_intertitial":"qwerty1234",
       "backup_ads_banner":"qwerty1234",
@@ -19,7 +19,7 @@
       "link_redirect": "https://"
     }
   ],
-  [ {
+   "Skin":[ {
     "id": 4665723260,
     "name_skin": "",
     "skin_url": "https://lh3.googleusercontent.com/EUIlbZV8yZvsCsEd2nwL68jCYvZHVQlHC9Jl5swjmDxWMNPtsOl2lcSYwCfi-kKUDBQ17avu-aVTVo89Mk-N3Hs",
