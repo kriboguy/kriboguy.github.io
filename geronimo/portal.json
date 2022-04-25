@@ -3,13 +3,13 @@
   [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3361819946658765/2967696077",
       "main_ads_intertitial":"ca-app-pub-3361819946658765/4963304024",
       "native_for_admob":"ca-app-pub-3361819946658765/2337140687",
       "backup_ads_banner":"qwerty1234",
       "backup_ads_intertitial":"fa72199f0f9efbbe",
-      "interval_intertitial": 2,
+      "interval_intertitial": 1,
       "initialize_sdk":"204172822",
       "initialize_sdk_backup_ads":"204172822",
       "high_paying_keyword_1": "gold",
