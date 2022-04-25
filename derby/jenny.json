@@ -4,9 +4,9 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "qwerty1234",
-      "main_ads_intertitial":"qwerty1234",
-      "native_for_admob":"qwerty1234",
+      "main_ads_banner": "ca-app-pub-3361819946658765/9670421949",
+      "main_ads_intertitial":"ca-app-pub-3361819946658765/6838027430",
+      "native_for_admob":"ca-app-pub-3361819946658765/8357340274",
       "backup_ads_banner":"qwerty1234",
       "backup_ads_intertitial":"qwerty1234",
       "interval_intertitial": 1,
