@@ -1,15 +1,15 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "IRON",
       "select_backup_ads": "IRON",
-      "main_ads_banner": "ca-app-pub-3361819946658765/3905439465",
-      "main_ads_intertitial": "ca-app-pub-3361819946658765/7303465281",
+      "main_ads_banner": "8161488",
+      "main_ads_intertitial": "8161486",
       "native_for_admob": "ca-app-pub-3361819946658765/4384823757",
       "backup_ads_banner": "8161488",
       "backup_ads_intertitial": "8161486",
       "interval_intertitial": 1,
-      "initialize_sdk": "204434196",
+      "initialize_sdk": "14915dd11",
       "initialize_sdk_backup_ads": "14915dd11",
       "high_paying_keyword_1": "diamond",
       "high_paying_keyword_2": "credit card",
