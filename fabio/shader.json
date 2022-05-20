@@ -2,10 +2,10 @@
   "Ads":
   [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "IRON",
       "select_backup_ads":"IRON",
-      "main_ads_banner": "ca-app-pub-3361819946658765/2692201231",
-      "main_ads_intertitial":"ca-app-pub-3361819946658765/1099261427",
+      "main_ads_banner": "8171208",
+      "main_ads_intertitial":"8171206",
       "native_for_admob":"ca-app-pub-3361819946658765/7752956220",
       "backup_ads_banner":"8171208",
       "backup_ads_intertitial":"8171206",
