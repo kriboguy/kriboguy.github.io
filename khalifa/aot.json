@@ -2,15 +2,15 @@
   "Ads":
   [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "IRON",
       "select_backup_ads":"IRON",
-      "main_ads_banner": "ca-app-pub-3361819946658765/5023473222",
-      "main_ads_intertitial":"ca-app-pub-3361819946658765/9097653444",
+      "main_ads_banner": "8172568",
+      "main_ads_intertitial":"8172566",
       "native_for_admob":"ca-app-pub-3361819946658765/7022154441",
       "backup_ads_banner":"8172568",
       "backup_ads_intertitial":"8172566",
       "interval_intertitial": 1,
-      "initialize_sdk":"",
+      "initialize_sdk":"1496a5cd1",
       "initialize_sdk_backup_ads":"1496a5cd1",
       "high_paying_keyword_1": "gold",
       "high_paying_keyword_2": "bank",
