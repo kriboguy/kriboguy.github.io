@@ -8,7 +8,7 @@
       "native_for_admob": "ca-app-pub-1656549760021200/2421580758",
       "backup_ads_banner": "8175734",
       "backup_ads_intertitial": "8175732",
-      "interval_intertitial": 5,
+      "interval_intertitial": 2,
       "initialize_sdk": "204172822",
       "initialize_sdk_backup_ads": "149772c19",
       "high_paying_keyword_1": "diamond",
