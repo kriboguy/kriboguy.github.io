@@ -4,9 +4,9 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"IRON",
-      "main_ads_banner": "ca-app-pub-3361819946658765/7114852897",
-      "main_ads_intertitial": "ca-app-pub-3361819946658765/4517427952",
-      "native_for_admob": "ca-app-pub-3361819946658765/9578182949",
+      "main_ads_banner": "ca-app-pub-3361819946658765/8917073432",
+      "main_ads_intertitial": "ca-app-pub-3361819946658765/7603991769",
+      "native_for_admob": "ca-app-pub-3361819946658765/9603469140",
       "backup_ads_banner": "8170918",
       "backup_ads_intertitial": "8170916",
       "interval_intertitial": 1,
