@@ -1,0 +1,167 @@
+PRIVACY POLICY
+
+
+Last update: [12/07/2022]
+
+ WHO ARE WE AND WHAT IS THIS DOCUMENT
+The Color Pop application (the "App") has been developed and is operated by HaiCare Sehat Bersama games, which is located 54, Avenue du Général Leclerc, 92100, Boulogne Billancourt, France and can be contacted by email at: contact@HaiCare Sehat Bersama games-apps.com, (hereinafter "HaiCare Sehat Bersama games").
+
+
+HaiCare Sehat Bersama games is very mindful of respecting your private life and the confidentiality of personal data relating to you (hereinafter “Personal Data”). This privacy policy is intended to inform you of how your Personal Data are collected, processed and stored by HaiCare Sehat Bersama games and its processors when you use the App and related services.
+
+
+HaiCare Sehat Bersama games undertakes to process your Personal Data in accordance with the applicable laws and regulations, and in particular the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, or "GDPR", and Law No. 78-17 of 6 January 1978 on information technology, data files and liberties, in its current version (hereinafter the “Applicable Regulations”).
+
+
+Please note that HaiCare Sehat Bersama games can amend this privacy policy at any time, in full or in part. If the privacy policy is amended, you will be informed by a push notification and an email sent to you with a link toward the updated privacy policy.
+
+
+ WHAT PERSONAL DATA DO WE COLLECT AND WHAT FOR?
+HaiCare Sehat Bersama games processes your Personal Data for the purposes and on the legal bases set out below.
+
+ Personal Data collected when you register on the App
+When you register on the App, you must provide a certain amount of information, particularly your username, email and password. You may also add a profile picture and a short presentation to your profile.
+
+You can also decide to sign up with Apple, using your Apple ID, or with Facebook which will transmit to HaiCare Sehat Bersama games the public information on your Facebook profile: name, surname, profile picture, and if you chose to share it or if authorized in your Facebook settings, your email address. Please note that if you chose to hide your email address, we won't have it, but we will nevertheless be able to communicate with you through Apple or Facebook.
+
+HaiCare Sehat Bersama games processes such Personal Data for the creation and management of your account and for providing the services offered via the App. This processing is necessary for entering into and executing a contract with you.
+
+
+You are informed that HaiCare Sehat Bersama games also uses your email address to send you service messages, and information relating to the App (e.g. contents created by the community, tutorials, new features etc.), and direct marketing emails or newsletters relating to other similar products or services offered by HaiCare Sehat Bersama games, on the basis of its legitimate interests to communicate with you and inform you of new products or services.
+
+You hereby acknowledge that some of your Personal Data (username and profile picture) will be visible to other users of the App when you post content.
+
+Please note that you can also access the App as a "visitor", without registering. The above Personal Data will then not be collected. Please read our Terms of Use for more details on the visitor access and features: www.HaiCare Sehat Bersama games-apps.com/legals/procolor/tos.
+
+ Personal Data collected when you subscribe
+You can also subscribe to the App or make in-app purchases.
+
+In case of in-app purchases, your card details and invoice information (name, surname and postal address) are collected and processed by Google or Apple, depending on the app store of your device.
+
+When you make a payment outside of the App, such as on our website www.HaiCare Sehat Bersama games-apps.com, your invoicing data and credit card details are collected and processed on our behalf by Stripe (see below in paragraph 5). We only have access to the last four digits and to the expiry date of your credit card.
+
+Such Personal Data will only be processed for the payment or subscription you ordered. This processing is necessary for entering into and executing a contract with you.
+
+ Data collected when you contact HaiCare Sehat Bersama games the App
+While you are using the App, you may contact HaiCare Sehat Bersama games. HaiCare Sehat Bersama games will process your personal data based on its legitimate interests to process and answer your questions and claims.
+
+ Anonymous usage data
+HaiCare Sehat Bersama games may collect usage data, in an anonymous manner, in order to better organize and manage the contents it presents on the App. This data is aggregated and can in no respect identify you.
+
+ PERSONALIZED ADVERTISING
+HaiCare Sehat Bersama games Ads services allow HaiCare Sehat Bersama games and its publisher partners (most of the time HaiCare Sehat Bersama games Ads partners are third party mobile application providers) to monetize advertising inventory by allowing advertisers to serve personalized advertising to users.
+
+
+What kind of Data:  While you use the App and in order to help advertiser promote their products and services and improve our own Ads services, HaiCare Sehat Bersama games may collect data limited to:
+
+the apps you are using
+Your IP address
+ Your Mobile Advertising ID (Apple IDFA or Google AAID - which are technical identifiers developed by mobile operating systems for advertising purposes which remain under your control and can be reset or erased at any time in through your device settings)
+ Technical information about the device you use and your connection (user agent, type of connection, timestamp)
+ Data pertaining to your activities on our applications and notably the way in which you interact with our applications (for instance, how and when you use our applications) and with the advertising served in our applications (for instance, number of ads served, potential clicks).
+
+Legal Basis: In order to deliver such services for its partners, HaiCare Sehat Bersama games can receive and process data for different legitimate purposes and interests:
+
+
+ To help advertiser partners promote their products and services :
+HaiCare Sehat Bersama games ads services help advertisers promote their products and services to an audience that has demonstrated interests in similar products and services and allow them to optimize their marketing spends.
+
+
+To improve HaiCare Sehat Bersama games Ads services :
+HaiCare Sehat Bersama games is committed to constantly improve the services delivered to its publishers and advertisers. In order to do so, HaiCare Sehat Bersama games Ads processes the data listed above in a way that notably allows it to better understand how users interact with the ads of our advertiser partners and optimize their user experience.
+
+
+Those Personal Data are collected upon your express consent.
+
+
+ WITH WHOM DO WE SHARE YOUR PERSONAL DATA?
+The first time you connect on the App, a pop up will be displayed, informing you that if you give your consent, your advertising ID (IDFA) and other data, such as location data, and other demographic and interest data about you will be collected and transmitted to our Ad partners and Analytic companies (see-below) for the purpose of providing you with a personalized advertising experience and analytics purpose. You are free to refuse or agree to such processing.
+
+
+When you consent to the collection of data for advertising and analytics purpose, we may share the data listed above with the following categories of recipients:
+
+
+ Ad partners: that allow us to monetize the ad inventory of the App and provide users with free products and services.
+
+Those partners usually collect data via their own tools (software development kits or “SDK”). you will find a list of our partners implemented advertising SDK through our applications and the privacy policies of their services that describe their practices and allow you to exercise your rights directly toward them hereafter:
+
+Applovin
+https://www.applovin.com/privacy/
+
+AppsFlyer
+https://www.appsflyer.com/services-privacy-policy/ 
+
+Facebook  
+https://www.facebook.com/about/privacy
+
+Google  
+https://policies.google.com/privacy
+
+Ironsource  
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+Mopub  
+https://www.mopub.com/legal/privacy/
+
+Ogury  
+https://ogury.com/privacy-policy/
+
+Tapjoy  
+https://www.tapjoy.com/legal/tapjoy-users/#privacy-policy
+
+Vungle
+https://vungle.com/privacy/
+
+
+ Analytic companies: that provide us with tools and technologies that allow us to better understand how users interact with our services and will help us improve it. Those partners also usually collect data via their own SDK. You will find a list of our partners implementing analytical SDK through our applications hereafter:
+Adjust
+https://www.adjust.com/terms/privacy-policy/
+
+Amplitude
+https://amplitude.com/privacy 
+
+Gameanalytics  
+https://gameanalytics.com/privacy/
+
+Google
+https://policies.google.com/privacy
+
+Mixpanel  
+https://mixpanel.com/legal/privacy-policy/
+
+Tenjin  
+https://www.tenjin.io/privacy/
+
+
+ Authorities: only to the extent we are obliged to by applicable laws and regulations.
+
+ Service providers: technical, hosting or client support services providers such as:
+Zendesk for client support and ticketing;
+www.zendesk.com/company/customers-partners/privacy-policy/ 
+
+SendinBlue emailing;
+fr.sendinblue.com/legal/privacypolicy/ 
+
+ Google Cloud Platform and Elastic Cloud for data storage
+https://policies.google.com/privacy
+
+
+ HaiCare Sehat Bersama games may also need to share your Personal Data with its external advisors (lawyers, accountants, etc.).
+
+ HOW LONG DO WE STORE YOUR PERSONAL DATA FOR?
+HaiCare Sehat Bersama games shall store your Personal Data for any length of time required for the use of your account, as such, your Personal Data will be permanently deleted when you delete your account.
+
+Furthermore, if your account remains inactive for a period of 3 years after the final user action, HaiCare Sehat Bersama games will send you an email to inform you of the deletion of your account.
+
+You are hereby informed that HaiCare Sehat Bersama games reserves the right to store your Personal Data in its temporary archives where strictly necessary to defend its rights in the event of a dispute, for the applicable limitation period.
+
+Also, please note that considering its status of hosting service provider, HaiCare Sehat Bersama games is subject to a legal obligation to retain some Personal Data relating to you for a duration of one year, on the basis of article 6.II of the Law 2004-575 of 21 June 2004 on confidence in the digital economy (LCEN).
+
+ HOW CAN YOU EXERCISE YOUR RIGHTS?
+In accordance with the Applicable Regulations, you have the rights to access, rectify, and delete your Personal Data. Under the conditions of the Applicable Regulations, you also benefit from the rights to request the limitation of the processing, the portability of your Personal Data, and the right to object to processing for reasons pertaining to your personal situation when the processing is based on HaiCare Sehat Bersama games’s legitimate interest. You can also communicate instructions about the fate of your Personal Data in the event of your death.
+
+You can also, at any time, and without reason, object to the processing of your Personal Data for the purposes of direct marketing.
+
+You can exercise these rights with HaiCare Sehat Bersama games by sending your request accompanied by a copy of an identity document by email to the following email address: privacy@HaiCare Sehat Bersama games-apps.com or by mail, writing to the following address: HaiCare Sehat Bersama games, 54, Avenue du Général Leclerc, 92100, Boulogne Billancourt, France.
+
+In any case, you may, at any time, submit a claim to the CNIL (French Data Protection Authority) (www.cnil.fr).
