@@ -3,9 +3,9 @@
     {
        "select_main_ads": "ADMOB",
       "select_backup_ads":"UNITY",
-      "main_ads_banner": " ",
-      "main_ads_intertitial":" ",
-      "native_for_admob":" ",
+      "main_ads_banner": "qwerty1234",
+      "main_ads_intertitial":"qwerty1234",
+      "native_for_admob":"qwerty1234",
       "backup_ads_banner": "Banner_Android",
       "backup_ads_intertitial": "Interstitial_Android",
       "interval_intertitial": 1,
