@@ -4,9 +4,9 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-2522678144467527/5478109654",
-      "main_ads_intertitial":"ca-app-pub-2522678144467527/4165027986",
-      "native_for_admob":"ca-app-pub-2522678144467527/2851946318",
+      "main_ads_banner": "ca-app-pub-2522678144467527/2706663270",
+      "main_ads_intertitial":"ca-app-pub-2522678144467527/1393581606",
+      "native_for_admob":"ca-app-pub-2522678144467527/7934939225",
       "backup_ads_banner":"qwerty1234",
       "backup_ads_intertitial":"qwerty1234",
       "interval_intertitial": 1,
