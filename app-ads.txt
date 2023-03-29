@@ -1,7 +1,6 @@
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 applovin.com, 5bf22095121ef14e5d8186b705765be6, DIRECT
 facebook.com, 4840040739379389, DIRECT, c3e20eee3f780d68
-google.com, pub-3361819946658765, DIRECT, f08c47fec0942fa0
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8f
 openx.com, 540785403, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
@@ -11,3 +10,4 @@ Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 tappx.com, mee1e8d06, DIRECT, 9f375a07da0318ec
 facebook.com, 668397140927204, DIRECT, c3e20eee3f780d68
 facebook.com, 570549261062947, DIRECT, c3e20eee3f780d68
+google.com, pub-5679606727041049, DIRECT, f08c47fec0942fa0
