@@ -10,15 +10,7 @@
       "url": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/rcti.m3u8"
     },
 
-{
-     
-      "id": 2,
-      "channel": "MNCTV",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png",
-       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Updated",
-      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
-    },
+ 
     {
      
       "id": 5,
@@ -164,15 +156,7 @@
       "category": "Live",
       "url": "http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8"
     },
-     {
      
-      "id": 11111,
-      "channel": "CNN Indonesia",
-      "image": "https://i.imgur.com/NSEpsIh.jpeg",
-       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Updated",
-      "url": "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8"
-    },
     {
      
       "id": 12,
