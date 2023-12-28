@@ -112,8 +112,7 @@
     "id": 15,
         "channel": "JTV",
         "image": "http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png",
-        
-            "http://122.248.43.138:1935/ch2/myStream/playlist.m3u8"
+        "url":    "http://122.248.43.138:1935/ch2/myStream/playlist.m3u8"
        
     },
     {
