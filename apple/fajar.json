@@ -7,10 +7,35 @@
       "image": "https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
       "category": "Updated",
-      "url": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/rcti.m3u8"
+      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd"
     },
-
- 
+    {
+     
+      "id": 2,
+      "channel": "MNCTV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
+    },
+    {
+     
+      "id": 3,
+      "channel": "GTV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd"
+    },
+    {
+     
+      "id": 4,
+      "channel": "iNews",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd"
+    },
     {
      
       "id": 5,
@@ -27,25 +52,25 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
       "category": "Updated",
-      "url": "http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8"
+      "url": "http://203.29.26.22:8000/play/a05j/index.m3u8"
     },
     {
      
       "id": 7,
-      "channel": "Trans TV",
-      "image": "https://i.imgur.com/2ZJGHZ6.jpg",
+      "channel": "Moji",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
       "category": "Updated",
-      "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1000404442_b744100_sleng.m3u8"
+      "url": "http://203.29.26.22:8000/play/a05l/index.m3u8"
     },
     {
      
       "id": 8,
-      "channel": "ANTV",
-      "image": "https://i.imgur.com/K7O8D1y.jpeg",
+      "channel": "Mentari TV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Highlight",
-      "url": "http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8"
+      "category": "Updated",
+      "url": "http://203.29.26.22:8000/play/a05m/index.m3u8"
     },
     {
      
@@ -59,112 +84,731 @@
     {
      
       "id": 10,
-      "channel": "TV One",
-      "image": "https://i.imgur.com/0cnet6w.jpg",
+      "channel": "Metro TV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
       "category": "Updated",
-      "url": "http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8"
+      "url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
     },
-     {
+    {
      
       "id": 11,
-      "channel": "CNN Indonesia",
-      "image": "https://i.imgur.com/NSEpsIh.jpeg",
+      "channel": "NET",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Highlight",
-      "url": "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8"
+      "category": "Updated",
+      "url": "http://210.210.155.35:80/qwr9ew/s/s08/index.m3u8"
     },
     {
      
       "id": 12,
-      "channel": "Trans TV",
-      "image": "https://i.imgur.com/2ZJGHZ6.jpg",
+      "channel": "RTV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Highlight",
-      "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1000404442_b744100_sleng.m3u8"
+      "category": "Updated",
+      "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8"
     },
     {
      
-      "id": 111,
-      "channel": "RCTI",
-      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png",
+      "id": 13,
+      "channel": "BBSTV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/1200px-Logo_BBS_TV_2018.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Live",
-      "url": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/rcti.m3u8"
-    },
-
-{
-     
-      "id": 112,
-      "channel": "MNCTV",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png",
-       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Live",
-      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
+      "category": "Updated",
+      "url": "http://103.119.54.246:8080/hls/bbstv.m3u8"
     },
     {
      
-      "id": 1115,
-      "channel": "Indosiar",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",
+      "id": 14,
+      "channel": "Jawa Pos TV",
+      "image": "https://i.imgur.com/Kt2kOGH.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Live",
-      "url": "http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8"
+      "category": "Updated",
+      "url": "https://v2.siar.us/jawapostv/live/playlist.m3u8"
     },
     {
      
-      "id": 1116,
-      "channel": "SCTV",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",
+      "id": 15,
+      "channel": "JTV",
+      "image": "http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Live",
-      "url": "http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8"
+      "category": "Updated",
+      "url": "http://122.248.43.138:1935/ch2/myStream/playlist.m3u8"
     },
     {
      
-      "id": 1117,
-      "channel": "Trans TV",
-      "image": "https://i.imgur.com/2ZJGHZ6.jpg",
+      "id": 16,
+      "channel": "Surabaya TV",
+      "image": "http://surabayatv.tv/wp-content/uploads/2021/11/logo-Surabaya-TV-baru-stroke-300x55.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Live",
-      "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1000404442_b744100_sleng.m3u8"
+      "category": "Updated",
+      "url": "https://v3.siar.us/surabayatv/live/playlist.m3u8"
     },
     {
      
-      "id": 1118,
-      "channel": "ANTV",
-      "image": "https://i.imgur.com/K7O8D1y.jpeg",
+      "id": 17,
+      "channel": "TV9 Nusantara",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/d/d9/TV9NUSANTARA1.png/revision/latest?cb=20220525022727",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Live",
-      "url": "http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8"
+      "category": "Updated",
+      "url": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8"
     },
     {
      
-      "id": 1119,
-      "channel": "Kompas TV",
-      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/798px-KOMPAS_TV_%282017%29.png",
+      "id": 18,
+      "channel": "Bali TV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Live",
-      "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8"
+      "category": "Updated",
+      "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8"
     },
     {
      
-      "id": 11110,
-      "channel": "TV One",
-      "image": "https://i.imgur.com/0cnet6w.jpg",
+      "id": 19,
+      "channel": "DAAITV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/DAAI_TV_Jakarta.png/800px-DAAI_TV_Jakarta.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Highlight",
-      "url": "http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8"
+      "category": "Updated",
+      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd"
     },
-     
     {
      
-      "id": 12,
-      "channel": "Trans TV",
-      "image": "https://i.imgur.com/2ZJGHZ6.jpg",
+      "id": 20,
+      "channel": "JakTV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png",
        "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
-      "category": "Highlight",
-      "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1000404442_b744100_sleng.m3u8"
+      "category": "Updated",
+      "url": "https://mooncang.my.id/api/vidio/ch.m3u8?id=5415&code=jaktv"
     },
-]
+    {
+     
+      "id": 21,
+      "channel": "Inspira TV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8"
+    },
+    {
+     
+      "id": 22,
+      "channel": "Lingkar TV",
+      "image": "https://lingkartv.com/assets/img/logo-square.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://lingkartv.my.id/hls/lingkartv.m3u8"
+    },
+    {
+     
+      "id": 23,
+      "channel": "Banten TV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logobantentv.png/800px-Logobantentv.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://v2.siar.us/barayatv/live/playlist.m3u8"
+    },
+    {
+     
+      "id": 24,
+      "channel": "Bandung TV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd"
+    },
+    {
+     
+      "id": 25,
+      "channel": "Garda TV",
+      "image": "https://gardarevolusi.tv/logo/logo%20web%201.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://bintangtv.siar.us/bintangtv/live/playlist.m3u8"
+    },
+    {
+     
+      "id": 26,
+      "channel": "Jogja TV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/5/58/Jogjatv3d.png/640px-Jogjatv3d.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
+    },
+    {
+     
+      "id": 27,
+      "channel": "Duta TV",
+      "image": "https://i.imgur.com/WHeb9Yt.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://o1.siar.us/dutatv/live/playlist.m3u8"
+    },
+    {
+     
+      "id": 28,
+      "channel": "Jaya TV",
+      "image": "https://i.imgur.com/H8BUxkx.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://h1.intechmedia.net/intech/ch52.m3u8"
+    },
+    {
+     
+      "id": 29,
+      "channel": "BETV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/b/b7/BETV_Bengkulu.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://h1.intechmedia.net/intech/ch58.m3u8"
+    },
+    {
+     
+      "id": 30,
+      "channel": "Tegar TV",
+      "image": "https://1.bp.blogspot.com/-aRYl8uiMtMA/Xsx8qiuZCzI/AAAAAAAApxQ/YqiRdH6tUI4WTpE9Yx_t2BeTyNr9TGeugCLcBGAsYHQ/s1600/tegar-tv-channel-logo.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8"
+    },
+    {
+     
+      "id": 31,
+      "channel": "Madu TV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://v6.siar.us/madutv/hd720/playlist.m3u8"
+    },
+    {
+     
+      "id": 32,
+      "channel": "Elshinta TV",
+      "image": "https://elshintatv.co.id/public/assets/312f2-logo-elshinta.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://210.210.155.37:80/s/s10/index.m3u8"
+    },
+    {
+     
+      "id": 33,
+      "channel": "Garuda TV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_GarudaTV_3D_Putih_Silver_Merah.png/800px-Logo_GarudaTV_3D_Putih_Silver_Merah.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://stream.garuda.tv/live/garudatv/live.m3u8"
+    },
+    {
+     
+      "id": 34,
+      "channel": "BMSTV",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/2/29/BMSTV_2016.png/revision/latest?cb=20200223204115",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8"
+    },
+    {
+     
+      "id": 35,
+      "channel": "Puja TV",
+      "image": "https://pujatvaceh.com/wp-content/uploads/2020/09/272.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://v6.siar.us/pujatv/live/playlist.m3u8"
+    },
+    {
+     
+      "id": 36,
+      "channel": "Rodja TV",
+      "image": "https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8"
+    },
+    {
+     
+      "id": 37,
+      "channel": "MGSTV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/b/b1/MGSTV_%282015%29.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high-17440.m3u8"
+    },
+    {
+     
+      "id": 38,
+      "channel": "Bayu TV",
+      "image": "https://i.imgur.com/QeL5QHy.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8"
+    },
+    {
+     
+      "id": 39,
+      "channel": "TATV",
+      "image": "https://i.imgur.com/1f0EC7t.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://v2.siar.us/tatv/live.sdp/playlist.m3u8"
+    },
+    {
+     
+      "id": 40,
+      "channel": "Kawanua TV",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png/revision/latest?cb=20181005160144",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://122.248.43.138:1935/ch18/myStream/playlist.m3u8"
+    },
+    {
+     
+      "id": 41,
+      "channel": "PonTV",
+      "image": "https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://122.248.43.138:1935/ch15/myStream/playlist.m3u8"
+    },
+    {
+     
+      "id": 42,
+      "channel": "Padang TV",
+      "image": "https://padangtv.id/wp-content/uploads/2020/07/logo1-e1595189708614.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://122.248.43.138:1935/ch16/myStream/playlist.m3u8"
+    },
+    {
+     
+      "id": 43,
+      "channel": "BRTV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://e1.siar.us/badartv/live/playlist.m3u8"
+    },
+    {
+     
+      "id": 44,
+      "channel": "TV Sultra",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/2/22/TV_Sultra.png/revision/latest?cb=20181005160300",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://122.248.43.138:1935/ch20/myStream/playlist.m3u8"
+    },
+    {
+     
+      "id": 45,
+      "channel": "RCTV",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png/revision/latest?cb=20180926161428",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://v10.siar.us/rctv/live/playlist.m3u8"
+    },
+    {
+     
+      "id": 46,
+      "channel": "Nusantara TV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
+    },
+    {
+     
+      "id": 47,
+      "channel": "AdiTV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://v2.siar.us/aditv/livestream/playlist.m3u8"
+    },
+    {
+     
+      "id": 48,
+      "channel": "TV Tanjung Pinang",
+      "image": "https://tvtpi.id/wp-content/uploads/2021/12/logo-250.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8"
+    },
+    {
+     
+      "id": 49,
+      "channel": "Batam TV",
+      "image": "https://i.imgur.com/UmtOA2H.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://122.248.43.138:1935/ch5/myStream/playlist.m3u8"
+    },
+    {
+     
+      "id": 50,
+      "channel": "JPMTV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_JPM_TV.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://122.248.43.138:1935/ch6/myStream/live.m3u8"
+    },
+    {
+     
+      "id": 51,
+      "channel": "TVKU",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/800px-TVKU-BChannel.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://103.30.1.14:8080/hls/live.m3u8"
+    },
+    {
+     
+      "id": 52,
+      "channel": "Balikapan TV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://122.248.43.138:1935/ch10/myStream/playlist.m3u8"
+    },
+    {
+     
+      "id": 53,
+      "channel": "UGTV",
+      "image": "https://ugtv.co.id/wp-content/uploads/2021/01/cropped-LOGO-e1610615362293.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8"
+    },
+    {
+     
+      "id": 54,
+      "channel": "JITV",
+      "image": "https://i.imgur.com/wkK7YNx.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8"
+    },
+    {
+     
+      "id": 55,
+      "channel": "DMTV",
+      "image": "https://i.imgur.com/KeaeR1g.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://h1.intechmedia.net/intech/ch51.m3u8"
+    },
+    {
+     
+      "id": 56,
+      "channel": "Batu TV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://117.103.69.219:8080/live/streaming/index.m3u8"
+    },
+    {
+     
+      "id": 57,
+      "channel": "PalTV",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/9/94/PalTV_Palembang.png/800px-PalTV_Palembang.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://122.248.43.138:1935/ch7/myStream/playlist.m3u8"
+    },
+    {
+     
+      "id": 58,
+      "channel": "Sakti TV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo-saktitv.png/1200px-Logo-saktitv.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8"
+    },
+    {
+     
+      "id": 59,
+      "channel": "Sangaji TV",
+      "image": "https://sangajitv.co.id/wp-content/uploads/2022/05/logo.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8"
+    },
+    {
+     
+      "id": 60,
+      "channel": "Ahsan TV",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/6/6a/Ahsan_TV.png/revision/latest?cb=20180922124847",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://h1.intechmedia.net/intech/ch4.m3u8"
+    },
+    {
+     
+      "id": 61,
+      "channel": "Hijrah TV",
+      "image": "https://i.imgur.com/bVN4zj2.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://h1.intechmedia.net/intech/ch8.m3u8"
+    },
+    {
+     
+      "id": 62,
+      "channel": "Insan TV",
+      "image": "https://i.imgur.com/bQfxkmq.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://h1.intechmedia.net/intech/ch1.m3u8"
+    },
+    {
+     
+      "id": 63,
+      "channel": "Rasyaad TV",
+      "image": "https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://h1.intechmedia.net/intech/ch6.m3u8"
+    },
+    {
+     
+      "id": 64,
+      "channel": "Surau TV",
+      "image": "https://www.surau.tv/images/logosurautvvalid.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://h1.intechmedia.net/intech/ch3.m3u8"
+    },
+    {
+     
+      "id": 65,
+      "channel": "RadioKita TV",
+      "image": "https://radiokitatv.com/wp-content/uploads/2022/03/hd-logo-1024x323.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://h1.intechmedia.net/intech/ch16.m3u8"
+    },
+    {
+     
+      "id": 66,
+      "channel": "ABC Kids",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Kids_%282020%29.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://c.mjh.nz/abc-kids.m3u8"
+    },
+    {
+     
+      "id": 67,
+      "channel": "Animax",
+      "image": "https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd"
+    },
+    {
+     
+      "id": 68,
+      "channel": "AniPlus",
+      "image": "https://i.ibb.co/XtS10LN/Aniplushd.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://210.210.155.35/dr9445/h/h02/index.m3u8"
+    },
+    {
+     
+      "id": 69,
+      "channel": "Astro Ceria",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://mooncang.my.id/api/astro/ch.mpd?id=2408"
+    },
+    {
+     
+      "id": 70,
+      "channel": "AT-X",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/640px-AT-X_logo.svg.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://sub2.neetball.net/live/neet.m3u8"
+    },
+    {
+     
+      "id": 71,
+      "channel": "Baby TV",
+      "image": "https://www.mncvision.id/userfiles/image/channel/baby_tv.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd"
+    },
+    {
+     
+      "id": 72,
+      "channel": "BeSmart",
+      "image": "https://www.e-besmart.gr/assets/img/logo.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd"
+    },
+    {
+     
+      "id": 73,
+      "channel": "Biznet Kids",
+      "image": "https://i.imgur.com/J5QNqJ0.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0"
+    },
+    {
+     
+      "id": 74,
+      "channel": "Boomerang",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd"
+    },
+    {
+     
+      "id": 75,
+      "channel": "Cartoon Network",
+      "image": "https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd"
+    },
+    {
+     
+      "id": 76,
+      "channel": "Cartoon TV",
+      "image": "https://i.imgur.com/q1xIXnX.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd"
+    },
+    {
+     
+      "id": 77,
+      "channel": "Cartoon TV Classics",
+      "image": "https://i.imgur.com/q1xIXnX.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd"
+    },
+    {
+     
+      "id": 78,
+      "channel": "Cartoon TV Premium",
+      "image": "https://imgur.com/luJJbEL.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd"
+    },
+    {
+     
+      "id": 79,
+      "channel": "CBeebies",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/CBeebies_logo_2022.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd"
+    },
+    {
+     
+      "id": 80,
+      "channel": "ConTV Anime",
+      "image": "https://image.roku.com/developer_channels/prod/cf64ec045ea3d1fc0340a9de61829ce8f76447d4d8f325f7b433ad9b2dcdc393.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/master.m3u8"
+    },
+    {
+     
+      "id": 81,
+      "channel": "DaVinci",
+      "image": "https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809023-.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8"
+    },
+    {
+     
+      "id": 82,
+      "channel": "Dens Play",
+      "image": "http://www.dens.tv/images/channel-logo/107.jpg",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://210.210.155.37/x6bnqe/s/s37/index.m3u8"
+    },
+    {
+     
+      "id": 83,
+      "channel": "Discovery Kids",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/546px-2016_Discovery_Kids_logo.svg.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd"
+    },
+    {
+     
+      "id": 84,
+      "channel": "Disney Channel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/800px-Disney_channel_2019.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://webudit.onlinewebtv.lol/lb/premium312/index.m3u8|referer=https://widevine.licenses4.me/"
+    },
+    {
+     
+      "id": 85,
+      "channel": "Disney Jr.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/640px-Disney_Junior.svg.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://webudit.onlinewebtv.lol/lb/premium313/index.m3u8|referer=https://widevine.licenses4.me/"
+    },
+    {
+     
+      "id": 86,
+      "channel": "Disney XD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/640px-Disney_XD_-_2015.svg.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://webudit.onlinewebtv.lol/lb/premium314/index.m3u8|referer=https://widevine.licenses4.me/"
+    },
+    {
+     
+      "id": 87,
+      "channel": "Dreamworks",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/640px-DreamWorks_Channel_Logo.svg.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941656&extension=ts&play_token=1kEm8DbZmS"
+    },
+    {
+     
+      "id": 88,
+      "channel": "Dunia Anak",
+      "image": "https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd"
+    },
+    {
+     
+      "id": 89,
+      "channel": "EBS Kids",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
+    },
+    {
+     
+      "id": 90,
+      "channel": "HappyKids",
+      "image": "https://happykids.tv/img/logo.png",
+       "description": "Aplikasi ini adalah aplikasi pihak ketiga yang bertujuan untuk menampilkan saluran TV secara digital. Kami dengan tegas ingin menyatakan bahwa kami tidak terlibat dalam penjualan atau perdagangan saluran TV yang ditampilkan melalui aplikasi ini.\n\nKami hanya menyediakan akses kepada pengguna untuk menonton saluran TV yang telah tersedia secara publik. Tidak ada transaksi jual-beli yang terjadi melalui aplikasi ini terkait dengan saluran TV yang ditampilkan.\n\nPenggunaan aplikasi ini adalah sepenuhnya tanggung jawab pengguna, dan kami tidak bertanggung jawab atas konten yang disiarkan oleh saluran TV yang ditampilkan.\n\nHarap diingat bahwa aplikasi ini hanya menyajikan saluran TV sebagai layanan tambahan dan bukan untuk tujuan komersial. Kami tidak memiliki afiliasi dengan penyiar saluran TV atau layanan yang ditampilkan di dalamnya.\n\nTerima kasih atas penggunaan aplikasi ini.",
+      "category": "Updated",
+      "url": "https://happykids-vizio.amagi.tv/playlist.m3u8"
+    }
+  ]
 }
